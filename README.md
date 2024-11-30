@@ -7,7 +7,7 @@
   
 **Connect with me:**  
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://t.me/psychochinazes">psychochinazes</a>
+<a href="https://t.me/psychochinazes">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 <br />
   
