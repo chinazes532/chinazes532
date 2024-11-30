@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2FvYFpgwJDzugewVqpeg9M3_fJxdCOPkpfihv8GueEpYlHQ-9-liiTefw8N-pfy5DGRFM&f=1&nofb=1&ipt=20e928f89ed419ade8ae8aeb791e2aa493bb30434d1718db6050b1b199a68e7c&ipo=images">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2FvYFpgwJDzugewVqpeg9M3_fJxdCOPkpfihv8GueEpYlHQ-9-liiTefw8N-pfy5DGRFM&f=1&nofb=1&ipt=20e928f89ed419ade8ae8aeb791e2aa493bb30434d1718db6050b1b199a68e7c&ipo=images" width="100px">
   
 **Languages and Tools:**  
 
